@@ -68,4 +68,31 @@
   float: left;
   display: inline-block;
   border: 2px solid black;
+  height: 250px;
+  width: 32.6%;
+}
+
+#box3 {
+  border-right: 3px solid black;
+}
+
+#bottomBox {
+  height: 50%;
+  width: 100%;
+  float: left;
+  overflow: hidden;
+}
+
+.nameContainer {
+  margin-top: 100px;
+}
+
+.myName {
+  margin-left:37%;
+}
+
+footer {
+  border: 1px solid black;
+  width: 85%;
+  height: 50px;
 }
