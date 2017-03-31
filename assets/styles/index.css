@@ -47,19 +47,25 @@
   margin-top: 100px;
   margin-left: 100px;
   overflow: hidden;
-  float: left;
 }
 
 #leftColumn {
   border: 2px solid black;
   height: 500px;
   width: 200px;
+  display: inline-block;
+  float: left;
 }
 
 #columnWrapper {
   border: 2px solid black;
   height: 500px;
-  width: 1000px;
+  width: 600px;
   margin-left: 250px;
+}
+
+.box {
+  float: left;
   display: inline-block;
+  border: 2px solid black;
 }
