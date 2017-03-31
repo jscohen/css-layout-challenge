@@ -1,0 +1,65 @@
+#headerwrap {
+  border: 2px solid black;
+  width: 75%;
+  height: 100px;
+  margin-left:100px;
+  overflow: hidden;
+}
+
+#leftTop {
+  width: 100px;
+  border-right: 2px solid black;
+  height: 100px;
+}
+
+#centerTop {
+  width: 65%;
+  border-right:2px solid black;
+  height: 100px;
+}
+
+.top {
+  float: left;
+}
+
+.midTop {
+  height: 100px;
+  border-right: 2px solid black;
+  width: 10%;
+  display:inline-block;
+}
+
+.rightTop {
+  height: 100px;
+  width: 5%;
+}
+
+#centerBlock {
+  width: 60%;
+  margin-top:70px;
+  margin-left:200px;
+  border: 2px solid black;
+  clear: left;
+  height: 100px;
+}
+
+#centralWrapper {
+  margin-top: 100px;
+  margin-left: 100px;
+  overflow: hidden;
+  float: left;
+}
+
+#leftColumn {
+  border: 2px solid black;
+  height: 500px;
+  width: 200px;
+}
+
+#columnWrapper {
+  border: 2px solid black;
+  height: 500px;
+  width: 1000px;
+  margin-left: 250px;
+  display: inline-block;
+}
